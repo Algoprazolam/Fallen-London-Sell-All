@@ -10,3 +10,7 @@ Adds additonal options to the bazaar sell tab in Fallen London
 - or maybe just a bunch of checkboxes and then sell all of the checked items
 
 - Auto check all items of a certain value. And maybe also below that value of option is checked
+
+### resources i used to help me out
+https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentElement
+https://www.w3schools.com/js/js_htmldom_nodes.asp
