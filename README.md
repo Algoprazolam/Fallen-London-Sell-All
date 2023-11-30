@@ -1,11 +1,17 @@
 # Fallen-London-Sell-All
-Adds additonal options to the bazaar sell tab in Fallen London
+A (Chrome) extension for Fallen London that adds a button to selling items at the bazaar for all items owned at once.
+
+## How to currently use it
+- clone the repo ( `git clone https://github.com/Algoprazolam/Fallen-London-Sell-All` )
+- Go to chrome extensions ( [chrome://extensions/](chrome://extensions/) )
+- enable developer mode ( there should be a slider in the top right of the extensions page)
+- Click the **Load Unpacked** button in the top left of the page.
+- select the folder you obtained by cloning the repo in step 1 and confirm.
+- Make sure it's enabled and done.
 
 ## Stuff I want to be part of this extension
 
-- Add a button to when you are selling items that fills in the max amount of items you own of that type.
-
-- A button next to sell that just does whats listed above
+- A button next to sell that just auto sells the entire stack.
 
 - or maybe just a bunch of checkboxes and then sell all of the checked items
 
